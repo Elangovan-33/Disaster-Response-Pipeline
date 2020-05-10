@@ -40,7 +40,8 @@ The Python script, train_classifier.py, has a machine learning pipeline that:
 
 # Installation
 
-run: pip install -r requirements.txt 
+run: pip install -r requirements.txt
+
 $ pip install plotly
 
 or
