@@ -42,7 +42,9 @@ The Python script, train_classifier.py, has a machine learning pipeline that:
 
 run: pip install -r requirements.txt 
 $ pip install plotly
+
 or
+
 $ conda install -c plotly plotly
 
 # Licence
