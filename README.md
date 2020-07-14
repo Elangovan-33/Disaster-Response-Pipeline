@@ -1,5 +1,5 @@
 # Disaster-Response-Pipeline
- 
+I am editiing the README file.Adding some more details about the project description 
  In this project, I analyze disaster data from [Figure Eight](https://www.figure-eight.com/) to build a model for an API that classifies disaster messages.
 
 In the data folder, you'll find a data set provided by [Figure Eight](https://www.figure-eight.com/) containing real messages that were sent during disaster events. I created a machine learning pipeline to categorize these events so that one can send the messages to an appropriate disaster relief agency.
